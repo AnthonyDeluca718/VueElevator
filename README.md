@@ -1,6 +1,6 @@
-# vue_tes
+# Vue Elevator
 
-> A Vue.js project
+> Elevator Challenge Re-written in Vue
 
 ## Build Setup
 
